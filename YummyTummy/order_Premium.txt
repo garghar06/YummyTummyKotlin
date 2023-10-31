@@ -1,0 +1,8 @@
+Order ID: 1
+Customer: Harshita Garg
+Order Date and Time: 2023-10-30-16-20-42
+Items:
+1. Pizza - $250.9
+2. Diet Coke - $90.5
+3. Choco Lava Cake - $101.0
+Total Bill: rupee 309.67999999999995
