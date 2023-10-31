@@ -1,7 +1,0 @@
-Dining Order Details:
-Order ID: 1
-Customer: Harshita Garg
-Order Date and Time: 20231030160354
-Items:
-1. Choco Lava Cake - $101.0
-Total Bill: $101.0

@@ -1,6 +1,0 @@
-Order ID: 1
-Customer: Harshita Garg
-Order Date and Time: 2023-10-30-16-53-58
-Items:
-1. Choco Lava Cake - $101.0
-Total Bill after all privileges : rupee 90.9
